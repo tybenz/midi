@@ -1,0 +1,24 @@
+{
+  "name": "midi-setup",
+  "version": "1.0.0",
+  "description": "midi setup for live guitar/ableton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tybenz/midi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tybenz/midi/issues"
+  },
+  "homepage": "https://github.com/tybenz/midi#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "midi": "^0.9.5"
+  }
+}
